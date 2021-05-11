@@ -7,5 +7,5 @@ Work on:
 
 Object Detection & generating a voice feedback afterwards, classyfying the class of the object.
 
-Path segmentation.
+Image segmentation.
 
